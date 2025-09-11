@@ -16,7 +16,8 @@ Valor de retorno:
 Al finalizar, la función main devuelve un valor entero, normalmente return 0;, que indica que el programa terminó correctamente.
 
 Ejemplo de estructura básica:
-```c++
+
+``` c++
 C++
 #include <iostream> // Directiva de preprocesador
 
@@ -28,3 +29,4 @@ int main() { // Función principal
     return 0; // Valor de retorno
 }
 ```
+
