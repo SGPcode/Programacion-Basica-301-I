@@ -17,6 +17,8 @@ Al finalizar, la función main devuelve un valor entero, normalmente return 0;, 
 
 Ejemplo de estructura básica:
 
+<img width="267" height="163" alt="image" src="https://github.com/user-attachments/assets/857dd6ea-5aaf-468c-9f1d-71a37805f89f" />
+
 ``` c++
 C++
 #include <iostream> // Directiva de preprocesador
